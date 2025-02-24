@@ -1,0 +1,83 @@
+🏪 YOUR FRIDGE INVENTORY:
+==================================================
+Fruits & Vegetables:
+- Apples
+- Oranges
+- Carrots
+- Tomatoes
+- Broccoli
+- Lettuce
+- Peppers
+- Onions
+- Potatoes
+- Pineapple
+- Grapes
+- Bananas
+- Strawberries
+- Blueberries
+- Eggs
+
+Meats:
+- Sausages
+- Ham
+- Cheese
+
+Dairy:
+- Milk
+- Yogurt
+- Butter
+- Eggs
+
+👩\u200d🍳 RECIPE SUGGESTIONS
+==================================================
+
+📝 Fresh Fruit Medley:
+⏱️ Prep Time: 10 minutes
+🍽️ Servings: 4
+💪 Nutrition: Rich in vitamins C and fiber
+✨ Optional ingredients available: pineapple, orange
+
+📋 Instructions:
+1. Wash all fruits thoroughly
+2. Cut apples and pears into bite-sized chunks
+3. Halve the grapes
+4. If using pineapple, cut into small chunks
+5. Mix all fruits in a large bowl
+6. Optional: Add a squeeze of orange juice to prevent browning
+--------------------------------------------------
+
+📝 Protein-Packed Deli Plate:
+⏱️ Prep Time: 10 minutes
+🍽️ Servings: 2
+💪 Nutrition: High in protein and calcium
+✨ Optional ingredients available: tomato
+
+📋 Instructions:
+1. Arrange sliced ham and cheese on a plate
+2. Hard boil eggs, cool, and slice
+3. If using, slice cucumber and tomato for garnish
+4. Serve with whole grain crackers or bread
+--------------------------------------------------
+
+📝 Broccoli and Cheese Bake:
+⏱️ Prep Time: 25 minutes
+🍽️ Servings: 4
+💪 Nutrition: Good source of calcium and vitamin C
+✨ Optional ingredients available: carrot
+
+📋 Instructions:
+1. Cut broccoli into florets
+2. Steam broccoli until tender-crisp
+3. Grate cheese
+4. If using, slice carrots thinly
+5. Layer vegetables in a baking dish
+6. Top with cheese and bake until melted
+--------------------------------------------------
+
+📊 SUMMARY
+==================================================
+Based on your fridge contents, you can make 3 recipes:
+1. Fresh Fruit Medley
+2. Protein-Packed Deli Plate
+3. Broccoli and Cheese Bake
+
