@@ -1,3 +1,7 @@
+"""
+This is my Science Fair project 2025. You will need to download the modules or use the visionagent by landingai website.
+"""
+
 import os
 import numpy as np
 from vision_agent.tools import *
