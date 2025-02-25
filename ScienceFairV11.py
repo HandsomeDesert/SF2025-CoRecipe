@@ -56,7 +56,7 @@ def analyze_fridge_and_suggest_recipes(image_path: str) -> str:
             "nutrition": "Rich in vitamins C and fiber",
             "instructions": (
                 "1. Wash all fruits thoroughly\n"
-                "2. Cut apples and pears into bite-sized chunks\n"
+                "2. Cut apples (and optional pears) into bite-sized chunks\n"
                 "3. Halve the grapes\n"
                 "4. If using pineapple, cut into small chunks\n"
                 "5. Mix all fruits in a large bowl\n"
@@ -73,7 +73,7 @@ def analyze_fridge_and_suggest_recipes(image_path: str) -> str:
             "instructions": (
                 "1. Wash and dry all vegetables\n"
                 "2. Tear lettuce into bite-sized pieces\n"
-                "3. Slice tomatoes, cucumbers, and radishes\n"
+                "3. Slice tomatoes, cucumbers, and (optional) radishes\n"
                 "4. Grate or julienne carrots\n"
                 "5. If using, slice bell peppers\n"
                 "6. Combine all ingredients\n"
@@ -89,7 +89,7 @@ def analyze_fridge_and_suggest_recipes(image_path: str) -> str:
             "nutrition": "High in protein and calcium",
             "instructions": (
                 "1. Arrange sliced ham and cheese on a plate\n"
-                "2. Hard boil eggs, cool, and slice\n"
+                "2. Hard boil eggs, let it cool, and slice\n"
                 "3. If using, slice cucumber and tomato for garnish\n"
                 "4. Serve with whole grain crackers or bread"
             ),
